@@ -1,4 +1,4 @@
-class Fibonnaci:
+class Fibonacci:
 
     def calculate(self, nth: int):
         if nth <= 1:
